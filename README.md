@@ -1,8 +1,8 @@
 ### Hey, I'm Lucas Rebouças! 👋
 
 - Studying Computer Engineering, Flutter Ecosystem & Python.
-- "Knowledge is Power"
 - São Paulo, Brazil
+- "Knowledge is Power"
 
 ##
 
