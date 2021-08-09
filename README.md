@@ -3,7 +3,7 @@
 - Studying Computer Engineering, Flutter Ecosystem & Python.
 - São Paulo, Brazil
 - "Knowledge is Power"
-
+- 
 ##
 
 <div>
