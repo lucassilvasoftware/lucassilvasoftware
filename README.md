@@ -1,6 +1,6 @@
 ### Hey, I'm Lucas Rebouças! 👋
 
-- Studying Computer Engineering, React Native Ecosystem & Python.
+- Studying Computer Science, React Native Ecosystem & Python.
 - São Paulo, Brazil
 - "Knowledge is Power"
 
