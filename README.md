@@ -7,4 +7,4 @@
 - São Paulo, Brazil
 - "Knowledge is Power"
 
-I create ideas and develop solutions in software form using my creativity and my technical knowledge by building web apps and mobile-apps using that are not only beautiful but pleasant to use and really problem solving.
+I create ideas and develop solutions in software form using my creativity and my technical knowledge building web apps and mobile-apps that are not only beautiful, but actually solve problems and are pleasant to use.
