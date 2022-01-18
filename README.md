@@ -1,15 +1,8 @@
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://)](https://www.linkedin.com/in/lucas-reboucas-silva/)
+
 ### Hey, I'm Lucas Rebouças! 👋
 
 - Studying Computer Science, React Native Ecosystem & Python.
 - São Paulo, Brazil
 - "Knowledge is Power"
-
-##
-  
- <div>
-    <a href="https://github.com/LucasReb">
-    <img height="150em" src= "https://github-readme-stats.vercel.app/api?username=LucasReb&count_private=true&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasReb&layout=compact&langs_count=5&theme=midnight-purple"/>
-  </div>
-  
-##
