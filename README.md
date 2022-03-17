@@ -7,4 +7,4 @@
 - São Paulo, Brazil
 - "Knowledge is Power"
 
-Endless passion for solving problems through technology.
+Endless passion for solving problems through software development.
