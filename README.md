@@ -5,6 +5,6 @@
 
 - Studying Computer Science, React Native Ecosystem & Python.
 - São Paulo, Brazil
-- "Knowledge is Power"
+- Front End Developer - JavaScript, React.js, HTML, CSS & Python
 
 Endless passion for solving problems through software development.
