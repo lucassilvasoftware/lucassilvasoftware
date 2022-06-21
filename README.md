@@ -3,7 +3,7 @@
 
 ### Hey, I'm Lucas Silva! 👋
 
-- Studying Computer Science, React Native Ecosystem & Python.
+- Studying Computer Science & React Native Ecosystem.
 - São Paulo, Brazil
 - Full Stack Developer - JavaScript, React.js, HTML, Node.js, Mongo, CSS & Python
 
