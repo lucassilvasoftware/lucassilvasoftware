@@ -5,6 +5,6 @@
 
 - Studying Computer Science & React Native Ecosystem.
 - São Paulo, Brazil
-- Full Stack Developer - JavaScript, React.js, HTML, Node.js, Mongo, CSS & Python.
+- Front-end Developer - JavaScript, React.js, HTML, Node.js, Mongo, CSS & Python.
 
 Endless passion for solving problems through software.
