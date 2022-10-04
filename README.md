@@ -5,6 +5,6 @@
 
 - Studying Computer Science & React Native Ecosystem.
 - São Paulo, Brazil
-- Front-end Developer - JavaScript, React.js, HTML, Node.js, Mongo, CSS & Python.
+- Software Engineer - JavaScript, React.js, Vue.js, Bootstrap, Node.js, Mongo, MySQL, CSS & Python.
 
 Endless passion for solving problems through software.
