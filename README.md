@@ -4,7 +4,7 @@
 ### Hey, I'm Lucas Rebouças Silva! 👋
 
 - Studying computer science & software architecture.
-- São Paulo, Brazil
+- São Paulo, Brazil.
 - Software Developer - JavaScript, React.js, Vue.js, Bootstrap, Node.js, Mongo, MySQL, CSS & Python.
 
 Endless passion for solving problems through software.
