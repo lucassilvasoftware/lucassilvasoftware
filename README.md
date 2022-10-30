@@ -3,7 +3,7 @@
 
 ### Hey, I'm Lucas Silva! 👋
 
-- Studying Computer Science & Software architecture.
+- Studying computer science & software architecture.
 - São Paulo, Brazil
 - Software Developer - JavaScript, React.js, Vue.js, Bootstrap, Node.js, Mongo, MySQL, CSS & Python.
 
