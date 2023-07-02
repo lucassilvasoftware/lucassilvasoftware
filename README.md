@@ -5,6 +5,6 @@
 
 - Studying computer science & software engineering.
 - São Paulo, Brazil.
-- Software Developer - JavaScript, React.js, Vue.js, Bootstrap, Node.js, Mongo, MySQL, CSS & Python.
+- Software Developer - JavaScript, Vue.js, Bootstrap, Node.js, Mongo, MySQL, CSS & Python.
 
 Endless passion for solving problems through software.
