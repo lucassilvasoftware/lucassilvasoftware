@@ -8,6 +8,3 @@
 - Software Developer.
 
 Endless passion for solving problems through software.
-<br />
-<br />
-Assembly, C/C++, Java, Javascript, PHP, Python.
