@@ -4,7 +4,7 @@
 ### Hey, I'm Lucas Rebouças Silva! 👋🏽
 
 - Studying computer science & software engineering.
-- São Paulo, Brazil.
+- Puebla, Mexico.
 - Software Developer.
 
 Endless passion for solving problems through software.
