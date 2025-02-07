@@ -3,8 +3,8 @@
 
 ### Hey, I'm Lucas Silva! 👋🏽
 
-- Studying computer science & software engineering.
-- São Paulo, Brazil.
-- Software Developer.
+- Software Engineer
+- Cybersecurity Analyst
+- São Paulo, Brazil
 
 Endless passion for solving problems through software.
