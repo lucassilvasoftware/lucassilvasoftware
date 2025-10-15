@@ -3,8 +3,8 @@
 
 ### Hey, I'm Lucas Silva! 👋🏽
 
+- Tech Lead
 - Software Engineer
-- Cybersecurity Analyst
 - São Paulo, Brazil
 
 Endless passion for solving problems through software.
