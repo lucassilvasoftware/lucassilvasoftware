@@ -1,5 +1,5 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucassilvahub/)](https://www.linkedin.com/in/lucassilvahub/)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/@lucassilvahub)](https://www.youtube.com/@lucassilvahub)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucassilvasoftware/)](https://www.linkedin.com/in/lucassilvasoftware/)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/@lucassilvasoftware)](https://www.youtube.com/@lucassilvasoftware)
 
 ### Hey, I'm Lucas Silva! 👋🏽
 
