@@ -3,8 +3,8 @@
 
 ### Hey, I'm Lucas Silva! 👋🏽
 
-- Tech Lead  
-- Software Engineer  
-- São Paulo, Brazil  
+- Project Leader
+- Software Engineer
+- São Paulo, Brazil
 
 Endless passion for solving problems through software.
