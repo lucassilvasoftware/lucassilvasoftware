@@ -1,4 +1,4 @@
-### Hey, I'm Lucas Silva! 👋🏽
+### Hey, I'm Lucas Rebouças Silva! 👋🏽
 
 - Software Engineer
 - São Paulo, Brazil
